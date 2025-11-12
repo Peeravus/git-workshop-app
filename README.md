@@ -1,3 +1,3 @@
-# How to use
+# Installation
 
-เรียน Git
+- Set up Web Server and upload index.html to htdocs or www
