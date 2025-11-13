@@ -31,5 +31,5 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     steps:
-        - run: echo "${{env.SERVER_IP}}"
+        - run: echo "Server IP -> ${{env.SERVER_IP}}"
         - run: echo ${{vars.APP_NAME}}
